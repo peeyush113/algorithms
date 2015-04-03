@@ -1,6 +1,8 @@
 Algorithms
 ==========
 
+[![Join the chat at https://gitter.im/peeyush113/algorithms](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/peeyush113/algorithms?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Algorithms playground for common questions solved in ruby syntax.  
 In case you want to prepare yourself for a job interview - try to solve it yourself first, then have a look here.  
 
